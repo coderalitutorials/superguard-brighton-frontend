@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.superguardpestcontrol.uk/sitemap.xml
+Sitemap: https://superguardpestcontrol.uk/sitemap.xml
